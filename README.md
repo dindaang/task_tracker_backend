@@ -5,16 +5,16 @@
 Buat database baru dengan nama:
 
 ```sql
-CREATE DATABASE task_track;
+CREATE DATABASE task_tracker;
 ```
 
 Import file SQL yang disediakan:
 
 ```text
-task_track.sql
+task_tracker.sql
 ```
 
-ke dalam database `task_track`.
+ke dalam database `task_tracker`.
 
 ---
 
